@@ -1,4 +1,3 @@
-# Trigger Workflow Reset
 name: assignment-test
 on:
     push:
